@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b78fd50f.css",
+    "main.js": "/static/js/main.067676e1.js",
+    "static/media/dark.jpg": "/static/media/dark.00d1e20840283a7bffab.jpg",
+    "static/media/bali.pdf": "/static/media/bali.6d45c3e0116e9adb94a1.pdf",
+    "static/media/favicon.png": "/static/media/favicon.09e11a779dad7f495be2.png",
+    "index.html": "/index.html",
+    "main.b78fd50f.css.map": "/static/css/main.b78fd50f.css.map",
+    "main.067676e1.js.map": "/static/js/main.067676e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b78fd50f.css",
+    "static/js/main.067676e1.js"
+  ]
+}
