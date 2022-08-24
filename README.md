@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h1>I'm Baliram</h1>
 
 <!--
 **0ME9A/0ME9A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/0ME9A">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=0ME9A&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ME9A&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
