@@ -1,5 +1,17 @@
-### Hi there 👋
+ Hi there 👋
 <h1>I'm Baliram</h1>
+
+
+
+<div style="display:flex; gap: 15px;">
+  <a href="https://www.linkedin.com/in/baliram-kumar-0a9a0a214/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/128/linkedin_button_icon_151847.png" target="_blank"></a> 
+    <a href="https://www.codewars.com/users/0ME9A" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/128/codewars_button_icon_151901.png" target="_blank"></a> 
+  <a href="mailto:heyome9a@gmail.com"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/96/gmail_button_icon_151848.png" target="_blank"></a>
+</div>
+</br>
+</br>
+
+
 
 <!--
 **0ME9A/0ME9A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +33,12 @@ Here are some ideas to get you started:
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ME9A&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+
+
+<div>
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
