@@ -1,8 +1,8 @@
 <p align="center"> Hi there 👋</p>
-<h2 align="center">I'm Baliram</h2>
+<p style="font-size:32px; font-weight: bolder;" align="center">I'm Baliram</p>
 <p align="center">I'm front-end React developer and programmer.</p>
 <hr>
-</br>
+<br>
 <div style="display:flex; gap: 15px; justify-content:center;" align='center'>
   <a href="https://www.linkedin.com/in/baliram-kumar-0a9a0a214/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/128/linkedin_button_icon_151847.png" target="_blank"></a>
     <a href="https://www.codewars.com/users/0ME9A" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/128/codewars_button_icon_151901.png" target="_blank"></a>
