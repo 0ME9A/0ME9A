@@ -12,7 +12,15 @@
 </div>
 </br>
 
+
+
 <div align=center>
+  <a href="https://www.codewars.com/users/0ME9A/" target="_blank">
+  <img align='center' src="https://www.codewars.com/users/0ME9A/badges/large"/>
+</a>
+  
+  </br></br></br>
+
   <img width=70% src="https://github-readme-stats.vercel.app/api?username=0ME9A&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
 <!-- 
   <img width=60% src="https://github-readme-stats.vercel.app/api/top-langs/?username=0ME9A&theme=dracula&hide_border=false&&layout=compact"/> -->
