@@ -24,5 +24,5 @@
   
   </br></br></br>
 
-  <img width=70% src="https://github-readme-stats.vercel.app/api?username=0ME9A&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+  <img width=70% src="https://github-readme-stats.vercel.app/api?username=0ME9A&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr&hide_border=true&show_owner=true"/>
 </div>
