@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.12bfe151.css",
-    "main.js": "/static/js/main.d59d69f5.js",
+    "main.js": "/static/js/main.0b24b54c.js",
     "static/media/css.gif": "/static/media/css.ddf8915058a53e3bee88.gif",
     "static/media/python.gif": "/static/media/python.3209e7ec3a257c190abe.gif",
     "static/media/bali.pdf": "/static/media/bali.6d45c3e0116e9adb94a1.pdf",
@@ -18,10 +18,10 @@
     "static/media/bootstrap.gif": "/static/media/bootstrap.361d61e8e582c8b6cccc.gif",
     "index.html": "/index.html",
     "main.12bfe151.css.map": "/static/css/main.12bfe151.css.map",
-    "main.d59d69f5.js.map": "/static/js/main.d59d69f5.js.map"
+    "main.0b24b54c.js.map": "/static/js/main.0b24b54c.js.map"
   },
   "entrypoints": [
     "static/css/main.12bfe151.css",
-    "static/js/main.d59d69f5.js"
+    "static/js/main.0b24b54c.js"
   ]
 }
