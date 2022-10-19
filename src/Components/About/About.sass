@@ -1,0 +1,48 @@
+@import "../../variable"
+    
+    
+#about
+    article
+        position: relative
+        text-align: center
+
+        figure
+            width: 500px
+            height: 500px
+            position: absolute
+            left: 50%
+            top: 50%
+            transform: translate(-50%, -50%)
+            transition: 2s
+            transform-origin: center
+        code
+            font-size: 2rem
+            // margin-top: 2rem
+            display: block
+            position: relative
+            z-index: 9
+            text-transform: none
+            color: $color-light2
+            transition: 2s
+            font-family: Consolas,"courier new"
+            // padding: 2rem 0
+            padding-bottom: 2rem
+            line-height: 3rem
+        .link
+            position: relative
+            // z-index: 8
+    &:hover
+        figure
+            transform: translate(-50%, -50%) scale(2)
+            opacity: .5
+            filter: blur(5px)
+        code
+            color: $color-dark
+
+@media screen and (max-width: 600PX) 
+    #about
+        article
+            code
+                font-size: 1.2rem 
+                padding: 2rem 
+                line-height: 2rem 

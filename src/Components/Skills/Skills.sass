@@ -1,0 +1,47 @@
+@import ../../variable
+#skills
+    // position: sticky
+    .skill-grid-item
+        display: flex
+        align-items: center
+        justify-content: center
+        border: 3px solid transparent
+
+        
+.skills-container
+    width: 100%
+    .skills
+        width: 100%
+        text-align: center
+        padding: 1rem 0
+        meter
+            width: 100%
+            margin: 0
+        label
+            font-size: 1.2rem
+            color: $color-primary
+            color: $color-dark
+            opacity: .5
+    .e-skills ::-webkit-meter-optimum-value
+        background-image: linear-gradient(45deg,$color-light2, rgb(0, 89, 255))
+#skills:hover 
+    .e-skills label
+        color: rgb(0, 89, 255)
+
+::-webkit-meter-bar
+    border: 0
+    background-color: $color-light2
+    border-right: 5px solid $color-dark
+    border-radius: 0
+    
+::-webkit-meter-optimum-value
+    color: red
+    background-image: linear-gradient(45deg, $color-light2, $color-primary)
+    border-right: 5px solid $color-dark
+
+@media screen and (max-width: 600px) 
+    .skills-container
+        .skills
+            label
+                font-size: .8rem
+

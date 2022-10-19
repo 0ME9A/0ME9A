@@ -1,0 +1,65 @@
+@import '../../variable'
+#portfolio
+    article
+        max-width: 100% !important
+    figure
+        border: 3px solid $color-light
+        // border-image: $color-bg-gradient
+        border-color: transparent
+        overflow: hidden
+        position: relative
+        figcaption
+            width: 80px
+            height: 80px
+            border-radius: 50%
+            background-color: $color-light2 !important
+            // background-image: $color-bg-gradient
+            top: 50%
+            left: 50%
+            transform: translate(-50%, -50%) scale(.6)
+            opacity: 0
+            position: absolute
+            display: flex
+            align-items: center
+            justify-content: center
+            box-sizing: content-box 
+            .portfolio-title
+                display: none
+                padding: 1rem .5rem
+                font-size: 1rem
+                font-weight: bolder !important
+            &:hover
+                width: 100%
+                border-radius: 0
+                height: 100%
+                .portfolio-title
+                    display: block
+                .btn-container 
+                    a
+                        transform: scale(1) !important
+                        border-color: $color-dark
+            .btn-container 
+                gap: 0
+                margin: 0
+                a
+                    border-color: transparent
+                    outline: none
+                    width: 100%
+                    height: 100%
+                    background: transparent
+                    font-size: .6rem
+                    cursor: pointer
+                    text-align: center
+                    &:hover
+                        background: $color-dark
+                        color: $color-light2
+        &:hover 
+            figcaption
+                transform: translate(-50%, -50%) scale(1.1)
+                flex-direction: column
+                outline: 2px solid $color-light2
+                outline-offset: 2rem
+                opacity: 1
+            img
+                transform: scale(1.2)
+                filter: blur(3px)
