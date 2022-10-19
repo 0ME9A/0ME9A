@@ -29,7 +29,7 @@ function Home() {
                         <a href={Bali}
                             download={Bali}
                             className='active-btn'
-                        >resume</a><Link to="/contact">hire me</Link>
+                        >resume</a><Link to="/contact" target="_top">hire me</Link>
                     </div>
                 </div>
             </section>

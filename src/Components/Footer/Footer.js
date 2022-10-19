@@ -14,16 +14,16 @@ function Footer() {
             </header>
             <article>
                 <div className="menu-links">
-                    <Link to="/" className="link">
+                    <Link to="/" target="_top" className="link">
                         omega
                     </Link>
-                    <Link to="/about" className="link">
+                    <Link to="/about" target="_top" className="link">
                         about
                     </Link>
-                    <Link to="/portfolio" className="link">
+                    <Link to="/portfolio" target="_top" className="link">
                         portfolio
                     </Link>
-                    <Link to="/contact" className="link">
+                    <Link to="/contact" target="_top" className="link">
                         contact
                     </Link>
                 </div>

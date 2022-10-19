@@ -3,6 +3,7 @@ import { VscGithub } from 'react-icons/vsc'
 import { HiMenuAlt2 } from 'react-icons/hi'
 import React, { useState, useEffect } from 'react'
 import { ToggleMenuContext } from '../../App'
+import { Outlet } from 'react-router-dom'
 
 
 
@@ -18,6 +19,7 @@ function Nav() {
                     <a href="https://www.github.com/0me9a" target="_blank" rel="noreferrer"><VscGithub className="icon" /></a>
                 </nav>
             </ToggleMenuContext.Provider>
+            <Outlet/>
         </>
     )
 }

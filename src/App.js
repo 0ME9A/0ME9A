@@ -16,7 +16,7 @@ function App() {
   function PageHandler(probs) {
     return (
       <div className='main-container'>
-        <Menu/>
+        <Menu />
         <probs.comp />
       </div>
     )
@@ -25,16 +25,16 @@ function App() {
   return (
     <>
       <BackgroundDesign />
-      <BrowserRouter>
-        <Routes>
-          <Route path='/' element={<PageHandler comp={Home} />} />
+      <Routes>
+        <Route path='/' >
+          <Route index element={<PageHandler comp={Home} />} />
           <Route path='about' element={<PageHandler comp={AboutUs} />} />
           <Route path='portfolio' element={<PageHandler comp={Portfolio} />} />
           <Route path='contact' element={<PageHandler comp={ContactUs} />} />
           <Route path='*' element={<PageHandler comp={Error} />} />
           <Route path={'portfolio/:id'} element={<PageHandler comp={ActiveRepo} />} />
-        </Routes>
-      </BrowserRouter>
+        </Route>
+      </Routes>
     </>
   )
 }

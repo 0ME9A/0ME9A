@@ -36,7 +36,7 @@ function Portfolio(probs) {
                                             <figcaption>
                                                 <span className="portfolio-title">{printRepo.name}</span>
                                                 <div className="btn-container">
-                                                    <Link to={`/portfolio/${printRepo.name}`} className="btn-link" id={printRepo.name}>view-project</Link>
+                                                    <Link to={`/portfolio/${printRepo.name}`} target="_top" className="btn-link" id={printRepo.name}>view-project</Link>
                                                 </div>
                                             </figcaption>
                                         </figure>
@@ -51,7 +51,7 @@ function Portfolio(probs) {
                                             <figcaption>
                                                 <span className="portfolio-title">{printRepo.name}</span>
                                                 <div className="btn-container">
-                                                    <Link to={`${printRepo.name}`} className="btn-link" id={printRepo.name}>view-project</Link>
+                                                    <Link to={`${printRepo.name}`} target="_top" className="btn-link" id={printRepo.name}>view-project</Link>
                                                 </div>
                                             </figcaption>
                                         </figure>
@@ -62,7 +62,7 @@ function Portfolio(probs) {
                         }
                     </GridTemplate>
                 </article>
-                <span className='link' style={{ display: probs.morebtn }}><Link to="/portfolio">read more books</Link></span>
+                <span className='link' style={{ display: probs.morebtn }}><Link to="/portfolio" target="_top">read more books</Link></span>
             </div>
         )
     }

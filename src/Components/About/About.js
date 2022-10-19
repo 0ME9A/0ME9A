@@ -15,7 +15,7 @@ function About(probs) {
                         <img src={backgroundImg} alt="background" />
                     </figure>
                     <code>I'm a front-end developer living in Bihar Sharif, India. I'm focused and enjoy creating websites, designing websites, and learning new technologies. I create responsive, clean, and attractive websites. I'm a well-organized person, a problem solver, and have high attention to detail. I'm currently learning Node-Js and am always ready to learn new ones...</code>
-                    <span className='link' style={{ display: probs.hideShow }}><Link to="/about">Know more</Link></span>
+                    <span className='link' style={{ display: probs.hideShow }}><Link to="/about" target="_top">Know more</Link></span>
                 </article>
             </div>
         </>
