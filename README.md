@@ -1,8 +1,8 @@
 
 
-<img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/LinkedIn%20cover%20-%201.png" alt="banner"/>
+<img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/LinkedIn%20cover%20-%203.png" alt="banner"/>
 
-
+<img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/LinkedIn%20cover%20-%204.png" alt="banner"/>
 <div align=center>
 
   <img width=49% src="https://github-readme-stats.vercel.app/api?username=0ME9A&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr&hide_border=true&show_owner=true"/>
