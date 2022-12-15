@@ -1,6 +1,6 @@
 
 
-<img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/LinkedIn%20cover%20-%203.png" alt="banner"/>
+<img width=100% src="" alt="banner"/>
 
 <img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/LinkedIn%20cover%20-%204.png" alt="banner"/>
 <div align=center>
