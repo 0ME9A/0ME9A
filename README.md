@@ -2,7 +2,7 @@
 
 <img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/LinkedIn%20cover%20-%203.png" alt="banner"/>
 <img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/LinkedIn%20cover%20-%205.png" alt="banner"/>
-<img width=100% src="https://www.codewars.com/users/0ME9A/badges/large" alt="banner"/>
+<img width=100% src="https://www.codewars.com/users/OME9A/badges/large" alt="banner"/>
 
 
 <div align=center>
