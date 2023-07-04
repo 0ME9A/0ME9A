@@ -1,6 +1,6 @@
 
 
-<img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/gitHubProfileHigh.png" alt="banner"/>
+<img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/profile.png" alt="banner"/>
 <img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/skills.png" alt="banner"/>
 <img width=100% src="https://www.codewars.com/users/OME9A/badges/large" alt="banner"/>
 
