@@ -1,0 +1,107 @@
+{
+  profile: {
+    id: "ome9a",
+    name: "John Doe",
+    email: "ome9a@gmail.com",
+    phone: "123-456-1234",
+    imgSrc: "/introH.jpg",
+    createdAt: "2017-12-12T00:00:00",
+  },
+  history: [
+    {
+      id: 1,
+      password: "PBH",
+      strength: "weak",
+      createdAt: "2017-12-12T00:00:00",
+      updatedAt: "2017-12-12T00:00:00",
+      bookmark: true,
+      note: null,
+    },
+    {
+      id: 2,
+      password: "-sd=23+s",
+      strength: "strong",
+      createdAt: "2017-12-12T00:00:00",
+      updatedAt: "2017-12-12T00:00:00",
+      bookmark: true,
+      note: null,
+    },
+    {
+      id: 3,
+      password: "PBH-sd=23+s",
+      strength: "strong",
+      createdAt: "2017-12-12T00:00:00",
+      updatedAt: "2017-12-12T00:00:00",
+      bookmark: false,
+      note: null,
+    },
+    {
+      id: 4,
+      password: "BHsfase-=23+s",
+      strength: "very strong",
+      createdAt: "2017-12-12T00:00:00",
+      updatedAt: "2017-12-12T00:00:00",
+      bookmark: true,
+      note: null,
+    },
+    {
+      id: 5,
+      password: "PBH-sd=23+s",
+      strength: "strong",
+      createdAt: "2017-12-12T00:00:00",
+      updatedAt: "2017-12-12T00:00:00",
+      bookmark: false,
+      note: null,
+    },
+    {
+      id: 6,
+      password: "P",
+      strength: "very weak",
+      createdAt: "2017-12-12T00:00:00",
+      updatedAt: "2017-12-12T00:00:00",
+      bookmark: false,
+      note: null,
+    },
+    {
+      id: 7,
+      password: "git0912.com",
+      strength: "very weak",
+      createdAt: "2017-12-12T00:00:00",
+      updatedAt: "2017-12-12T00:00:00",
+      bookmark: false,
+      note: "Github password. use this password for github account. Github password. use this password for github account.Github password. use this password for github account.Github password. use this password for github account.",
+    },
+  ],
+  settings: {
+    basic: [
+      {
+        id: 1,
+        title: "theme",
+        subTitle: "Dark Mode — Toggle to activate dark and light mode…",
+        value: false,
+      },
+      {
+        id: 2,
+        title: "history",
+        subTitle: "Password history — Bookmark history button on the header...",
+        value: false,
+      },
+    ],
+    advance: [
+      {
+        id: 1,
+        title: "salt",
+        subTitle:
+          "Salt string — A custom string added to the password before hashing for enhanced security...",
+        value: false,
+      },
+      {
+        id: 2,
+        title: "auto copy",
+        subTitle:
+          "Auto copy password — Automatically copy a newly generated password without the need for an additional click on the copy button...",
+        value: false,
+      },
+    ],
+  },
+}
