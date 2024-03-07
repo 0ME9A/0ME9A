@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <a href="https://leetcode.com/fasakinhenry/"><img width="100%" src="https://leetcard.jacoblin.cool/omegaStrikes?theme=dark&font=Rubik&border=0&radius=8"></a>
+    <a href="https://leetcode.com/omegaStrikes/"><img width="100%" src="https://leetcard.jacoblin.cool/omegaStrikes?theme=dark&font=Rubik&border=0&radius=8"></a>
 </p>
 
 <div align=center>
