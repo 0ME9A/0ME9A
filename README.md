@@ -1,14 +1,17 @@
 
 
-<img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/github_profile/v2/github_bio.png" alt="banner"/>
-<img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/github_profile/v2/github_skills.png" alt="banner"/>
-<img width=100% src="https://www.codewars.com/users/OME9A/badges/large" alt="banner"/>
+<a href="https://ome9a.com/about" target="_blank">
+    <img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/github_profile/v2/github_bio.png" alt="banner"/>
+    <img width=100% src="https://raw.githubusercontent.com/0ME9A/0ME9A/main/github_profile/v2/github_skills.png" alt="banner"/>
+</a>
+<a href="https://www.codewars.com/users/OME9A" target="_blank">
+    <img width=100% src="https://www.codewars.com/users/OME9A/badges/large" alt="banner"/>
+</a>
 
+<a href="https://leetcode.com/omegaStrikes/" target="_blank">
+    <img width="100%" src="https://leetcard.jacoblin.cool/omegaStrikes?theme=dark&font=Rubik&border=0&radius=8"/>
+</a>
 
-
-<p align="center">
-    <a href="https://leetcode.com/omegaStrikes/"><img width="100%" src="https://leetcard.jacoblin.cool/omegaStrikes?theme=dark&font=Rubik&border=0&radius=8"></a>
-</p>
 
 <div align=center>
   <img width=49% src="https://github-readme-stats.vercel.app/api?username=0ME9A&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr&hide_border=true&show_owner=true&border_radius=8"/>
